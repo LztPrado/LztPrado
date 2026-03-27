@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Luan, and I’m a student and aspiring software developer from São Paulo, Brazil.</p>
+<p align="left">My name is Luan, and I’m a student and aspiring software developer from São Paulo, Brazil.<br>📖 I’m currently studying Systems Analysis and Development at university.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🐛 Creating bugs since 2024<br>📚 I’m currently learning Java, JavaScript and mobile development<br>🎯 Goals: become a solid software developer and land my first tech role</p>
+<p align="left">🐛 Creating bugs since 2024<br>📚 I’m currently focused on Angular, TypeScrtipt, Java and databases<br>🎯 Goals: Grow into a skilled software developer and secure my first role in tech.</p>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Currently exploring & using:</h2>
 
 ###
 
@@ -41,8 +41,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -66,13 +74,14 @@
 
 ###
 
-<h2 align="left">I have an academic research project!</h2>
+<h2 align="left">Academic Research Project</h2>
 
-###
-
-<p align="left">Title: The Development of Structuring Digital Systems in Brazil<br><br>Research on structured digital systems in Brazil, analyzing how well-designed information systems improve efficiency, accessibility, and data reliability in public administration.<br>(Work in publication process)</p>
-
-###
+<p align="left">
+Title: The Development of Structuring Digital Systems in Brazil<br><br>
+This research focuses on structured digital systems in Brazil, analyzing how well-designed information systems enhance efficiency, accessibility, and data reliability in public administration.<br>
+<br>
+📄 <a href="https://docs.google.com/document/d/11o57XSYnwQnzVfv3brqvrAddZww6pJDkrnXJWsoodO8/edit?usp=sharing">View the project document</a>
+</p>
 
 
 <div>
