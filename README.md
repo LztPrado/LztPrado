@@ -76,7 +76,7 @@ Final Course Project (TCC) | ETEC
 
 An e-commerce system developed as a technical course final project, focused on digitizing the sales and order management processes of a butcher shop.
 
-Repository: github.com/Jonathasdev1/acouguejoia123
+Repository: github.com/Jonathasdev1/acouguejoia123](https://github.com/LztPrado/ZE-DAS-CARNES-DELIVERY
 
 More projects and repositories are available below.
 
